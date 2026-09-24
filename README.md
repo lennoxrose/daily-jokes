@@ -48,6 +48,52 @@ Und dies sei auch gesagt, wenngleich es den Erzähler ein wenig beschämt, es zu
 
 ---
 
+### 🏰 The Sacred Instructions, Set Down at Great and Unnecessary Length by the Same Fool Who Wrote All the Rest of This
+
+*Now hark once more, friend, for you have sat this long already and a man does not rise from a fence-post halfway through a tale — that is bad luck, my grandmother always said, though she never once told me why, on account of the telling of *that* would have taken another hour besides —*
+
+**I. On the Summoning of the Project, Which Is a Grander Matter Than You Might Suppose**
+
+Now before a man may lay his hands upon a thing, before he may claim it his and set it working in his own field, he must first go and *fetch* it, and fetching, mind you, is not the same as having — no, a great many men in this life have confused the two, and gone hungry for it — and so it is with this project of ours, which sits not in your barn nor in your keeping but far off in a distant kingdom called GitHub, a place I am told has no soil at all, only wires and machines and men who have never once touched a plow, and from that kingdom the project must be summoned, called forth, dragged bodily across the wire the way a farmer drags a stubborn goat by its rope, unwilling, complaining the whole way, until at last it stands blinking in your own yard wondering how it got there. This summoning is done with a single incantation, no more, for even a fool knows better than to overcomplicate a simple fetching, and provided the village wizard has not cursed your internet — and he does that more often than you'd think, that wizard, out of spite mostly, or boredom — the ritual goes thus:
+
+```bash
+git clone https://github.com/lennoxrose/daily-jokes.git
+```
+
+**II. On Entering the Chamber Once It Has Been Summoned, Which Sounds Simple But Is Not, Not Really, Not If You Think On It Long Enough**
+
+Now here is a thing that trips up even clever men, and I have seen it trip them, standing right there in the yard with the goat freshly delivered and no notion whatsoever of what to do next: having summoned the project, you must not simply stand beside it admiring your own work, the way a man stands beside a new-dug well feeling proud of himself instead of drawing water from it — no, you must *enter* it, step bodily into the space it occupies, the way a man steps into his own house after a long day rather than sitting on the porch all evening pretending the door doesn't exist. Wander not elsewhere while you do this, friend, for the world is wide and full of other doors, and some of those doors lead to older projects, forgotten ones, the kind built in the year of our Lord 2017 by men who believed, may the good earth forgive them, that a folder named `node_modules` was a fit place to keep a database, and you do not want to open that door, not ever, not on your worst day. The correct door is entered thus:
+
+```bash
+cd daily-jokes
+```
+
+**III. On the Gathering of Ingredients, Without Which the Whole Undertaking Amounts to Nothing but Wishful Thinking**
+
+A field, my friend, does not sow itself, and a stew does not season itself, and this project, for all its fine bones, will not run on good intentions alone, no matter how sincerely you hold them, no matter how many times you sit before it wishing very hard that it might simply work — I have tried this method myself, in my younger and more foolish days, wishing at a broken plow for the better part of an afternoon, and I can tell you plainly it does not work, not for plows and not for projects neither. What is needed is *ingredients*, proper ones, gathered and measured and brought together in the correct order, and for this task we do not gather them ourselves with our own two hands as our fathers might have done, no, we command a servant to do it for us, a small tireless creature called a package manager, who asks nothing of us but patience and a bit of disk space, and who will fetch every last ingredient this project requires down to the smallest and most forgotten crumb, provided you speak to it plainly and do not confuse it with excessive chatter:
+
+```bash
+pnpm install
+```
+
+**IV. On the Waking of the Beast, Which Is the Moment All This Fuss Has Been Building Toward, So Pay Attention Now**
+
+And so at long last, after the summoning and the entering and the gathering, the machine stands ready — coiled, if a machine can be said to coil, the way a cat coils before it leaps, or the way I myself coil before rising from this fence-post, which these days takes considerably longer than it once did. All that remains is the final word, the incantation that stirs the beast from its slumber and sets it breathing, and I will tell you now, plainly, because even a rambling old fool knows when the moment calls for plainness: speak it, and do not hesitate, and do not second-guess yourself, for hesitation is the enemy of all good magic, this I learned from a traveling conjurer who came through these parts once and hesitated mid-spell and turned his own hat into a turnip instead of the rabbit he'd promised, much to the disappointment of the children and, I suspect, the turnip:
+
+```bash
+pnpm dev
+```
+
+**V. On Making Changes Without Bringing the Whole Business Down Around Your Ears, Which Is a Skill Few Men Truly Possess**
+
+Now if you are the sort of restless soul who cannot leave well enough alone — and I say this with no judgment, friend, for I have known such men, married one or two of their sisters even — you will wish, sooner or later, to change something, to add your own mark upon this small and foolish thing, and this is permitted, this is even welcomed, for a project that never changes is a project already halfway to the grave. But hear this warning first, given freely as everything else in this proclamation has been given freely: change what you will, break what you must, and when the dust settles and something has gone sideways in a manner you did not foresee and cannot entirely explain, do as any reasonable craftsman has always done since the first man first picked up the first tool and immediately regretted it — observe the wreckage calmly, nod once, and declare to anyone watching that this was, in fact, precisely your intention all along. No one will believe you. Say it anyway. It is tradition, and tradition, like a good long story, is not a thing to be rushed:
+
+```bash
+git add .
+```
+
+---
+
 ## What this actually is
 
 No grand system, no hidden machinery — just one sick fool (me) keeping this repo alive by hand, feeding it a fresh joke and its translations on a strange little cycle, day after day, for reasons that make sense to no one but himself.
