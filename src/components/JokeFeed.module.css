@@ -1,0 +1,13 @@
+.feed {
+  display: flex;
+  flex-direction: column;
+}
+
+.divider {
+  height: 1px;
+  background: #262626;
+}
+
+.empty {
+  color: #6b6b6b;
+}

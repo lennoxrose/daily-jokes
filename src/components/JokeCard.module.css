@@ -1,0 +1,18 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  padding: 2rem 0;
+}
+
+.date {
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  color: #4d4d4d;
+}
+
+.entries {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
