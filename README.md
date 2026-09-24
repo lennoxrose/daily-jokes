@@ -94,6 +94,20 @@ git add .
 
 ---
 
+### 🔊 For Those Whose Eyes Have Betrayed Them, or Whose Commitment to Literacy Has Tragically Collapsed
+
+Now it has come to the attention of this humble scribe that not every soul who wanders through this gate arrives with eyes fit for the task before them — some are weary from long labor in the fields, some are cursed from birth with the affliction the physicians call "reading is boring," and some, if we are being honest with one another as friends ought to be, simply never learned their letters at all and have been nodding along at village meetings for decades, pretending to study the notice board while in truth counting the pigeons upon it. To these souls, and to any others whose commitment to literacy has, tragically and through no fault entirely their own, collapsed somewhere between the cradle and this very webpage, the ancient scribes — meaning, again, the one sick fool, alone, at his fence-post — have labored long into the candlelit night to prepare an alternative means of receiving this sacred knowledge, that ignorance of letters shall bar no man from mirth.
+
+Behold, then, three enchanted stones, each holding trapped within it a voice — not a ghost, mind you, the physicians assure me it is not a ghost, merely a very small and very patient man who lives inside the machine and has agreed, for reasons known only to himself, to read this entire proclamation aloud, from the turnips to the goats to the traveling conjurer's regrettable turnip-hat, in whichever tongue you press your ear against:
+
+- 🇬🇧 [Hear it spoken in the tongue of Albion](./audio/english.mp3)
+- 🇩🇪 [Vernehmt es in der Sprache des Rheins](./audio/german.mp3)
+- 🇨🇳 [聆聽中華古語之音](./audio/chinese.mp3)
+
+Press the stone of your choosing. Sit back upon whatever fence-post is nearest. Let the small patient man do the reading, so that your own poor eyes, wearied as they are, may finally rest.
+
+---
+
 ## What this actually is
 
 No grand system, no hidden machinery — just one sick fool (me) keeping this repo alive by hand, feeding it a fresh joke and its translations on a strange little cycle, day after day, for reasons that make sense to no one but himself.
